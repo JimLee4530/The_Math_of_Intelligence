@@ -6,3 +6,7 @@ This is a Coding Challenge Submission for week 1 of "The Math of Intelligence" b
 I use **batch stochastic gradient descent** to fit the line in sgd_demo.py.
 You can see it. http://cs229.stanford.edu/notes/cs229-notes1.pdf
 ![](https://github.com/JimLee4530/The_Math_of_Intelligence/blob/master/Intro_to_the_Math_of_intelligence/figure_1.png)
+
+## Classifying_Data_Using_a_Support_Vector_Machine-master (Week 2)
+
+## logistic_regression_newtons_method-master (Week 2)
